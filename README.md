@@ -1,2 +1,20 @@
-# AI_ToolKit_Portfolio
-“A simple, responsive React + Bootstrap starter for my AI Toolkit Portfolio. Basic version, continuously evolving with new updates.”
+AI Toolkit Portfolio
+
+AI Toolkit Portfolio is a basic React + Bootstrap UI prototype designed as the starting point for a larger project.
+This is the initial version, and the repository will be updated regularly as the project grows into a full-featured AI toolkit showcase.
+
+✨ Current Features
+
+Clean, responsive Bootstrap-based layout
+
+Simple React structure for easy scalability
+
+Minimal design as a foundation for upcoming features
+
+🚀 Future Plans
+
+Adding interactive components
+
+Integrating AI-powered tools
+
+Enhancing UI/UX with modern styling
