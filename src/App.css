@@ -2,9 +2,41 @@
   text-align: center;
 }
 
+.tool-card {
+  transition: transform 0.3s, box-shadow 0.3s; 
+}
+
+.dark-gray-row {
+  background-color: #f7f7f7; /* dark gray */
+  color: #ffffff;            /* white text */
+  padding: 1rem;             /* optional padding */
+}
+
+.tool-card:hover {
+  transform: translateY(-5px);  
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); 
+  cursor: pointer;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.opensans {
+  font-family: 'Open Sans', sans-serif;
 }
 
 @media (prefers-reduced-motion: no-preference) {
